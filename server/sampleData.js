@@ -32,14 +32,7 @@ const projects = [
         'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.',
       status: 'Done',
     },
-    {
-      id: '5',
-      clientId: '5',
-      name: 'Auction Website',
-      description:
-        'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.',
-      status: 'In Progress',
-    },
+    
   ];
   
   // Clients
@@ -68,12 +61,7 @@ const projects = [
       email: 'steve@gmail.com',
       phone: '344-562-6787',
     },
-    {
-      id: '5',
-      name: 'Bruce Banner',
-      email: 'bruce@gmail.com',
-      phone: '321-468-8887',
-    },
+    
   ];
   
   module.exports = { projects, clients };
